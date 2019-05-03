@@ -11,3 +11,7 @@ para adicionar todas las carpetas a un commit el comando es gir add .
 para adicionar el proyecto a un repositorio el comando es git remote add origin rm https://github.com/anderson12099/RentaCar.git
 para subir cambios git push -u origin (rama) ejemplo master o develop o feature
 para hacer commit el comando es git commit -m 'mensaje de los cambios hechos'
+para descartar los cambios git checkout -- nombre archivo
+para saber todas las ramas que hay git branch
+para cambiarse de rama git checkout rama
+para clonar el repositorio git clone direccion repositorio
