@@ -14,4 +14,12 @@ para hacer commit el comando es git commit -m 'mensaje de los cambios hechos'
 para descartar los cambios git checkout -- nombre archivo
 para saber todas las ramas que hay git branch
 para cambiarse de rama git checkout rama
+
 para clonar el repositorio git clone direccion repositorio
+
+para crear una nueva rama y pasarse a ella git checkout -b nombre de la rama
+
+para eliminar una rama git branch -d nombre de la rama
+
+para cambiar el nombre de una rama git branch -m nombre de la rama ant  espacio nombre rama nueva
+
